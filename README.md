@@ -1,0 +1,1 @@
+This repo is based on the code examples and exercises listed at https://neuralnetworksanddeeplearning.com
